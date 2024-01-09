@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">Diplomas :<br><br>📜 Bachelor of Computer Science : 2024<br>🏫 Graduated from high school with distinctions in 2021<br>🎶 Graduated from the conservatory of music in 2019<br><br>Certifications :<br><br>Hobbies :<br>🎸Accoustic Guitar Player since 2009<br>🎮Video Game Tester since 2021<br><br>Languages :<br>🇫🇷 : Mother tongue<br>🇬🇧 : Proficient<br>🇩🇪 : Learning ( A2 )</p>
-
+<p align="left">Diplomas :<br><br>📜 Bachelor of Computer Science : 2024<br>🏫 Graduated from high school with distinctions in 2021<br>🎶 Graduated from the conservatory of music in 2019<br><br>Certifications :<br><br>SWERC 2022 : https://swerc.eu/2022/<br><br>Complete C# Masterclass : https://www.udemy.com/certificate/UC-174b96a6-078f-46c1-a580-dd6db84f6d4a/<br><br>Spring Framework In Easy Steps : https://www.udemy.com/course/springframeworkineasysteps/<br><br>Spring Boot Fundamentals : https://www.udemy.com/course/springbootfundamentals/<br><br>Rest API Using Spring Data Rest : https://www.udemy.com/course/microservices-rest-apis-using-spring-data-rest/<br><br><br>Microservices: Designing Highly Scalable Systems : https://www.udemy.com/course/introduction-to-microservices/?kw=microservice+designing+hig&src=sac<br><br>Maven Crash Course : https://www.udemy.com/course/mavencrashcourse/<br><br>Ruby for Beginners : https://www.udemy.com/certificate/UC-07ef669a-f88b-4d13-8450-79f3513e8e51/<br><br>Pix P-CT2W4QJF : https://pix.fr/<br><br><br><br>Hobbies :<br>🎸Accoustic Guitar Player since 2009<br>🎮Video Game Tester since 2021<br><br>Languages :<br>🇫🇷 : Mother tongue<br>🇬🇧 : Proficient<br>🇩🇪 : Learning ( A2 )</p>
 ###
 
 <h2 align="left">I really like</h2>
