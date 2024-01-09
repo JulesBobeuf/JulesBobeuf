@@ -68,6 +68,17 @@
 
 ###
 
+<h2 align="left">View my stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JulesBobeuf&show_icons=true&hide=issues&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesBobeuf&langs_count=5&theme=dark&layout=compact" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Contact me on</h2>
 
 ###
@@ -76,15 +87,4 @@
   <a href="https://www.linkedin.com/in/bobeuf-jules/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="left">View my stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulesBobeuf&show_icons=true&hide=issues&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesBobeuf&langs_count=5&theme=dark&layout=compact" height="150" alt="languages graph"  />
 </div>
