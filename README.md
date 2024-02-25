@@ -73,8 +73,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulesBobeuf&show_icons=true&hide=issues&theme=dark" height="300" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesBobeuf&langs_count=10&theme=dark&layout=compact" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulesBobeuf&show_icons=true&hide=issues&theme=dark" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesBobeuf&langs_count=10&theme=dark&layout=compact" height="200" alt="languages graph"  />
 </div>
 
 ###
