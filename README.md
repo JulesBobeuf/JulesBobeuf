@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jules BOBEUF, I am 21 years old and I come from France. I'm both a Java Developer at IBM and a student in Computer Science. I'm currently doing my Master's degree in Software Engineering.</p>
+<p align="left">My name is Jules BOBEUF, I am 22 years old and I come from France. I'm both a Java Developer at IBM and a student in Computer Science. I'm currently doing my Master's degree in Software Engineering.</p>
 
 ###
 
